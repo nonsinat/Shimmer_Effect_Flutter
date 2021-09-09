@@ -1,16 +1,2 @@
-# flutter_shimmer_effect
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/64300383/132614431-461f3caf-465e-40b1-aabb-924da5ee517d.png)
+![image](https://user-images.githubusercontent.com/64300383/132614567-743792c6-0563-4ec2-8bc1-4e5661799451.png)
